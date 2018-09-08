@@ -5,7 +5,7 @@ my_hash = {
 end
 
 def shipping_manifest
-  items = {
+  shipping_manifest = {
   "whale bone corsets" => 5,
   "oil paintings" => 2,
   "porcelain vases" => 3
