@@ -11,3 +11,11 @@ def shipping_manifest
   "porcelain vases" => 3
     }
   end
+
+def retrieval
+  items = {
+  "whale bone corsets" => 5,
+  "oil paintings" => 2,
+  "porcelain vases" => 3
+    }
+end
