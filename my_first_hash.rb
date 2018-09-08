@@ -13,9 +13,5 @@ def shipping_manifest
   end
 
 def retrieval
-  items = {
-  "whale bone corsets" => 5,
-  "oil paintings" => 2,
-  "porcelain vases" => 3
-    }
+items["whale bone corsets"]
 end
