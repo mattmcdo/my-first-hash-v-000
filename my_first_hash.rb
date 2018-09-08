@@ -12,6 +12,6 @@ def shipping_manifest
     }
   end
 
-def retrieval(items)
-items["whale bone corsets"]
+def retrieval
+shipping_manifest["whale bone corsets"]
 end
