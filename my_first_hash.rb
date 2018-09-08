@@ -13,5 +13,5 @@ def shipping_manifest
   end
 
 def retrieval
-shipping_manifest["whale bone corsets"]
+shipping_manifest["oil paintings"]
 end
