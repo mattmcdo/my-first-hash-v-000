@@ -6,8 +6,8 @@ end
 
 def shipping_manifest
   items = {
-  whale => "whale bone corsets",
-  art => "oil paintings",
-  decor => "porcelain vases"
+  "whale bone corsets" => 5,
+  "oil paintings" => 2,
+  "porcelain vases" => 3
     }
   end
